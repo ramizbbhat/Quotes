@@ -1,29 +1,40 @@
 {
-	"posts": [{
+	"employees": [{
 			"id": 1,
-			"title": "Post 1"
+			"name": "Rameez Bhat"
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Chinar Bhandari"
 		},
 		{
 			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"comments": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
+			"title": "Bhushan Dhikale"
 		},
 		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
+			"id": 4,
+			"title": "Swapnil Jagdale"
+		},
+		{
+			"id": 5,
+			"title": "Ikram Nehvi"
+		},
+		{
+			"id": 6,
+			"title": "Frenly Singh"
+		},
+		{
+			"id": 7,
+			"title": "Aditi Godse"
+		},
+		{
+			"id": 8,
+			"title": "Frenly Singh"
+		},
+		{
+			"id": 9,
+			"title": "Akshay Shirole"
 		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+
+	]
 }
